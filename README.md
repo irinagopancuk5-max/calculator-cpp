@@ -1,4 +1,6 @@
-# Simple C++ Calculator
+# calculator-cpp
+
+Simple C++ Calculator
 
 ## 📌 About
 This is a simple console calculator written in C++ as a beginner project.
