@@ -1,26 +1,11 @@
-# C++ Console Calculator
+Simple C++ console calculator.
 
-Simple console calculator written in C++.
+## Features
+- Addition, subtraction, multiplication, division
+- Division by zero handling
+- Operator validation
 
----
-
-## ⚙ Features
-- Addition (+)
-- Subtraction (-)
-- Multiplication (*)
-- Division (/)
-- Handles division by zero
-- Error handling for unknown operator
-
----
-
-## 🎯 What I learned
-- Conditions (if/else)
+## What I learned
+- Conditions
 - User input
 - Basic logic
-- Error handling
-
----
-
-## 🚀 Status
-Beginner project
